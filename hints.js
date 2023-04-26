@@ -1,9 +1,9 @@
 export default
 {
 	"rest": [
-		"You may get attacked if you rest in an unsafe location. Always post a sentry!",
-		"All your spells and abilities reset on a long rest. (Exceptions may apply.)",
-		"D&D is a fantasy game so you can do things you can't do in real life. Like sleep for a full night. Enjoy!"
+		"Podeis ser atacados si descansais en un lugar no muy seguro. Siempre poned a alguien de guardia!",
+		"Todos tus hechizos y habilidades se recuperan en un descanso largo. (Puede haber excepciones.)",
+		"D&D es un juego de fantasia asi que puedes hacer cosas que no puedes hacer en la vida real. Como dormir toda la noche!."
 	],
     "combat": [
 		"Unless specified otherwise, your unarmed attacks deal damage equal to 1 + your strength modifier.",
