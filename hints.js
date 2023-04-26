@@ -6,27 +6,26 @@ export default
 		"D&D es un juego de fantasia asi que puedes hacer cosas que no puedes hacer en la vida real. Como dormir toda la noche!."
 	],
     "combat": [
-		"Unless specified otherwise, your unarmed attacks deal damage equal to 1 + your strength modifier.",
-		"Murder is frowned upon in most civilized locations.",
-		"Remember to add your proficiency bonus to your attack roll!",
-		"This is not Skyrim! Your words may end a fight just as efficiently as your blades.",
-		"Running away is almost always an option. Call it tactical retreat to save some face."
+	    	"Excepto especificado lo contrario, tus ataques sin armas hacen daño igual a 1 + tu modificador de fuerza.",
+		"El assessinato está mal visto en la mayoria de lugares civilizados.",
+		"Recuerda añadir tu bonus de proficiencia a tus tiradas de ataque!",
+		"Esto no es Skyrim! Una conversación puede terminar un combate tan eficientemente como las armas.",
+		"Huir del combate es casi siempre una opción! Llamadlo una retirada estrategica para salvar cara."		
     ],
 	"social": [
-		"Depending on your location, people may be open to talking to you.",
-		"Talk to your fellow party members. This is a role playing game, after all.",
-		"Persuasion is not mind control. No, not even if you roll a 20."
+		"Dependiendo de tu localización, la gente puede estar dispuesta a hablarte.",
+		"Habla con tus compañeros de equipo. Esto es un juego de Roleplay al final del dia.",
+		"Persuasión no es control mental. No, ni aunque te salga un 20."
 	],
     "default": [
-    	"Bribing your DM with their preferred beverage may result in inspiration and/or inebriation.",
-    	"For Helm's sake, read your character sheet!",
-		"To kill Strahd, deal damage to him until he dies.",
-		"Long jump depends on your strength score. High jump depends on your strength modifier.",
-		"With a 10 foot running start you can long jump a number of feet equal to your strength score.",
-		"With a 10 foot running start you can jump to a height equal to your strength modifier in feet.",
-		"You can extend your arms half your height above yourself during a high jump to reach ledges.",
-		"If it consists of pentagons, it's a d12 not a d20.",
-		"Beware of the smiling DM!",
-		"Every time a dragon crits, a PC gets their wings."
+    	"Por favor! Leed vuestra ficha de personaje!",
+	    	"Para matar a alguien, haced daño hasta que muera.",
+		"La distancia de un salto largo depende de tu puntuación de Fuerza. Un salto alto depende de tu modificador de Fuerza.",
+		"Con 10 pies de carrerilla puedes hacer un salto largo igual a tu puntuación de Fuerza.",
+		"Con 10 pies de carrerilla puedes hacer un salto alto igual a tu modificador de Fuerza.",
+		"Puedes extender tus brazos la mitad de tu altura por encima tuyo durante un salto alto para llegar a salientes.",
+		"Si son pentagonos, es un d12, no un d20.",
+		"Preocupaos cuando el DM tire sin avisar.",
+		"Cada vez que un dragon consigue un critico, un PC consigue sus alas."
 	]
 }
