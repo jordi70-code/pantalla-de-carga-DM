@@ -1,7 +1,7 @@
 [
     {
         "name": "Test1",
-        "title": "Long Rest",
+        "title": "Descanso Largo",
         "file": "images/DND_Art1.png",
         "license": "© Wizards of the Coast",
         "categories": [
@@ -12,7 +12,7 @@
     },
     {
         "name": "TestMulti",
-        "title": "A typical evening in the Yawning Portal",
+        "title": "Un anochecer normal en el portal bostezo",
         "file": "images/DND_Art4.png",
         "license": "© Wizards of the Coast",
         "categories": [
@@ -27,7 +27,7 @@
     },
     {
         "name": "Underdark",
-        "title": "Visit scenic Underdark! Only 99% chance of death or enslavement this time of the year.",
+        "title": "Visita el Reino Oscuro! Solo 99% de probabilidad de muerte o esclavitud durante esta epoca del año.",
         "file": "images/underdark_pano.jpg",
         "license":"© Wizards of the Coast, Francis Tsai",
         "categories": [
