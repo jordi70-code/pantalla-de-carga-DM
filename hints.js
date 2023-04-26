@@ -3,7 +3,7 @@ export default
 	"rest": [
 		"Podeis ser atacados si descansais en un lugar no muy seguro. Siempre poned a alguien de guardia!",
 		"Todos tus hechizos y habilidades se recuperan en un descanso largo. (Puede haber excepciones.)",
-		"D&D es un juego de fantasia asi que puedes hacer cosas que no puedes hacer en la vida real. Como dormir toda la noche!."
+		"D&D es un juego de fantasia asi que puedes hacer cosas que no puedes hacer en la vida real. Como dormir toda la noche!"
 	],
     "combat": [
 	    	"Excepto especificado lo contrario, tus ataques sin armas hacen daño igual a 1 + tu modificador de fuerza.",
